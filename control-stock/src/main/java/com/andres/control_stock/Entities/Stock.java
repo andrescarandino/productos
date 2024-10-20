@@ -9,7 +9,6 @@ import java.time.LocalDate;
 @Table(name = "stocks")
 @Getter @Setter
 @RequiredArgsConstructor
-
 public class Stock {
 
     @Id
